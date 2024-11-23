@@ -1,5 +1,5 @@
 ## Overview
-This project is a Web API for an invoicing app built using **Clean Architecture** principles, ensuring a clear separation of concerns for better maintainability and scalability.
+This project is a Web API for an invoicing app built using **Clean Architecture** principles.
 
 ## Layers
 1. **Domain Layer**: Core entities (`Invoice`, `Customer`) and business logic.
